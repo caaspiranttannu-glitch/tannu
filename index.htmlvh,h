@@ -1,0 +1,29 @@
+name = "Your Love's Name"
+
+print("\n" + "="*40)
+print(f"  Hey {name},")
+print("  I just wanted to say...")
+print("       I  ❤️  You")
+print("="*40)
+<!DOCTYPE html>
+<html>
+<head>
+    <title>I Love You</title>
+    <style>
+        body { 
+            background: pink; 
+            text-align: center; 
+            font-family: Arial; 
+        }
+        h1 { 
+            color: red; 
+            margin-top: 200px; 
+            font-size: 50px; 
+        }
+    </style>
+</head>
+<body>
+    <h1>I Love You 💖</h1>
+</body>
+</html>
+alert("I LOVE YOU 💖");
